@@ -5,6 +5,9 @@
 🚀 Built for an **Agentic AI Hackathon** with a strong focus on **security, explainability, and real-world usability**.
 
 
+👉 **Live App:** https://career-navigator-ai-copy-7e92601a.base44.app
+
+
 
 ## 📌 Problem Statement
 
