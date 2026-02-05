@@ -170,3 +170,31 @@ User
   → Learning Resources & Job Opportunities
 
 
+## 🖼️ Screenshots
+
+### Login
+![Login](Login.png)
+
+### Education Background
+![Education Background](Education Background.png)
+
+### Experience Level
+![Experience Level](Experience Level.png)
+
+### Skills Selection
+![Skills](Skills.png)
+
+### Career Analysis
+![Career Analysis](Career Analysis.png)
+
+### Certificate Vault
+![Certificate Vault](Certificate Vault.png)
+
+### Resume Builder
+![Resume Builder](Resume Builder.png)
+
+### Job Opportunities
+![Job Opportunities](Job Opportunities.png)
+
+### Mock Interview
+![Mock Interview](Mock Interview.png)
